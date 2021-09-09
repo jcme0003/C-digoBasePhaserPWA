@@ -1,0 +1,24 @@
+{
+  "short_name": "Phaser ejemplo",
+  "name": "Aplicacion de ejemplo - Framework Phaser",
+  "icons": [
+    {
+      "src": "assets/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/icon-256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "assets/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "description": "Aplicacion de ejemplo con el framework Phaser en HTML5."
+}
